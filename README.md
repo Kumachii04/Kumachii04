@@ -11,6 +11,8 @@ Valores clave:
 ✔️ Enfoque en performance y UX
 ✔️ Metodologías ágiles (Scrum/Kanban)
 
+📊 Métricas de Código
+<div align="center"> <!-- Estadísticas principales --> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kumachii04&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumachii04&layout=compact&theme=algolia&hide_border=true&bg_color=00000000&langs_count=8" /> <!-- Streak stats --> <img height="180em" src="https://streak-stats.demolab.com?user=Kumachii04&theme=algolia&hide_border=true&background=00000000" /> <!-- Gráfico de actividad --> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kumachii04&theme=react-dark&hide_border=true&area=true&custom_title=Mi%20Actividad%20de%20Código&bg_color=00000000" width="90%"> <!-- Trofeos --> <img src="https://github-profile-trophy.vercel.app/?username=Kumachii04&margin-w=15&theme=onedark&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B&row=2&column=4" width="90%"> <!-- Métricas adicionales --> <img src="https://github.com/Kumachii04/Kumachii04/blob/main/github-metrics.svg" alt="Métricas" width="100%"></div>
 🛠 Stack Tecnológico
 Lenguajes y Frameworks
 <p align="center"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"> </p>
@@ -20,18 +22,6 @@ Infraestructura y DevOps
 <p align="center"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"> </p>
 Herramientas de Desarrollo
 <p align="center"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"> <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack"> </p>
-📊 Métricas de Código
-<div align="center">
-https://github-readme-stats.vercel.app/api?username=Kumachii04&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=Kumachii04&layout=compact&theme=algolia&hide_border=true
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kumachii04&theme=react-dark&hide_border=true&area=true&custom_title=Mi%20Actividad%20de%20Código" width="90%">
-https://github-profile-trophy.vercel.app/?username=Kumachii04&margin-w=15&theme=onedark&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B
-
-https://streak-stats.demolab.com/?user=Kumachii04&theme=algolia&hide_border=true
-
-</div>
 🏆 Proyectos Destacados
 NAEI Market - Plataforma E-commerce
 <div align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450" alt="Demo e-commerce"> </div>
